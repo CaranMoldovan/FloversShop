@@ -1,0 +1,7 @@
+spring.datasource.driverClassName
+spring.datasource.url
+spring.datasource.username
+spring.datasource.password
+
+spring.jpa.propierties.hibernate.dialect= org.hibernate.dialect.PostgresSQLDialect
+spring.jpa.propierties.hibenate.dialect=true
